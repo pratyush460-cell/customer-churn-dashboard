@@ -4,8 +4,7 @@ An interactive Power BI dashboard analyzing customer churn patterns for a teleco
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
-
+![Dashboard Demo](dashboard-demo.gif)
 ## 🔍 Key Insights
 
 - **Overall churn rate:** 26.54% (1,869 out of 7,043 customers)
