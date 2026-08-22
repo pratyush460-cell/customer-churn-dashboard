@@ -22,8 +22,6 @@ An interactive Power BI dashboard analyzing customer churn patterns for a teleco
 ## 📁 Files
 
 - `Customer_Churn.pbix` — full Power BI report file (open in Power BI Desktop)
-- `screenshots/` — dashboard preview images
-- `data/` — dataset used (if shared)
 
 ## 📝 Notes
 
